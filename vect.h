@@ -1,5 +1,3 @@
-// Copied from Assignment 4:
-
 #ifndef _VECT_H
 #define _VECT_H
 
