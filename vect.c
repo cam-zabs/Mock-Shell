@@ -1,5 +1,3 @@
-// Copied from Assignment 4:
-
 /**
  * Vector implementation.
  *
